@@ -1,0 +1,26 @@
+body {
+    background-color: #222;
+    color: #ffe;
+    max-width: 1024px;
+    margin: auto;
+    padding: 4pt 16pt 4pt 16pt;
+    font-family: "Source Sans Pro", sans-serif;
+    font-size: 12pt;
+}
+h1, h2, h3, h4, h5, h6 {
+    font-family: "Crimson Pro", serif;
+    font-weight: 300;
+}
+h1 {
+    font-size: 46pt;
+}
+h2 {
+    font-size: 36pt;
+}
+h3 {
+    font-size: 30pt;
+}
+a {
+    text-decoration: underline dotted #f99;
+    color: #f99;
+}
