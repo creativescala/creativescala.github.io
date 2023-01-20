@@ -1,7 +1,7 @@
 body {
     background-color: #222;
     color: #ffe;
-    max-width: 1024px;
+    max-width: 40em;
     margin: auto;
     padding: 4pt 16pt 4pt 16pt;
     font-family: "Source Sans Pro", sans-serif;
@@ -13,12 +13,18 @@ h1, h2, h3, h4, h5, h6 {
 }
 h1 {
     font-size: 46pt;
+    margin-top: 46pt;
+    margin-bottom: 12pt;
 }
 h2 {
     font-size: 36pt;
+    margin-top: 36pt;
+    margin-bottom: 12pt;
 }
 h3 {
     font-size: 30pt;
+    margin-top: 30pt;
+    margin-bottom: 12pt;
 }
 a {
     text-decoration: underline dotted #f99;
