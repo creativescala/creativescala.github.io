@@ -30,3 +30,13 @@ a {
     text-decoration: underline dotted #f99;
     color: #f99;
 }
+
+.mt-4 {
+    margin-top: 24pt;
+}
+.text-serif {
+    font-family: "Crimson Pro", serif;
+}
+.text-center {
+    text-align: center;
+}
